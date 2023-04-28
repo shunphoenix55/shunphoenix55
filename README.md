@@ -29,3 +29,9 @@
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)]()
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/shunphoenix55?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/shunphoenix55?tab=repositories&q=&type=&language=c++)
+
+<br>
+
+## My Webinars
+- [ Introduction to 3D Modelling using Blender ](https://www.youtube.com/live/ECxKsiI0mWc?feature=share)
+-  [Introduction to Blender: Getting Started with Materials](https://www.youtube.com/live/dD2ikQ8OSYk?feature=share)
