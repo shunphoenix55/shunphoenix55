@@ -12,6 +12,7 @@
 Here are some ideas to get you started:
 -->
 
+- Projects Lead at @[Technology and Gaming Club VIT](https://github.com/Technology-And-Gaming-Club)
 - 🔭 I’m currently working on Game Development and XR (AR&VR) in [Unity]()
 - 🌱 I’m currently learning [AR Core](), [Three.js]() and [App Dev]()
 - 👯 I’m looking to collaborate on [Game Dev]() or [XR]() Projects
