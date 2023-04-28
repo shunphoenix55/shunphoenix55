@@ -35,3 +35,18 @@
 ## My Webinars
 - [ Introduction to 3D Modelling using Blender ](https://www.youtube.com/live/ECxKsiI0mWc?feature=share)
 -  [Introduction to Blender: Getting Started with Materials](https://www.youtube.com/live/dD2ikQ8OSYk?feature=share)
+
+## Github Stats
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=shunphoenix55&&show_icons=true&theme=synthwave&hide_border=true" max-width="100%" width="450px">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=shunphoenix55&theme=synthwave&hide_border=true" max-width="100%" width="450px">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunphoenix55&layout=compact&theme=synthwave&hide_border=true" max-width="100%" width="450px">
+</p>
+<br>
+
+## Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+## Feel free to connect
+[![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/wahhaj-mustafa-67284b21b//)
+[![Mail](https://img.shields.io/badge/Mail-critical?logo=gmail&logoColor=white)](mailto:wahhaj.musthafa@gmail.com)
