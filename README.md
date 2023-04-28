@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm Wahhaj Mustafa</h1>
-<h4 align="center">I'm an Game Developer and XR(AR&VR) Enthusiast</h4>
+<h4 align="center">I'm a Game Developer and XR(AR&VR) Enthusiast</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shunphoenix55&color=blueviolet" alt="shunphoenix55" /> </p>
 
 - Projects Lead at @[Technology and Gaming Club VIT](https://github.com/Technology-And-Gaming-Club)
