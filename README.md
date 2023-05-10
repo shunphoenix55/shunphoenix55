@@ -49,5 +49,5 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ## Feel free to connect
-[![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/wahhaj-mustafa-67284b21b//)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahhaj-mustafa-67284b21b//)
 [![Mail](https://img.shields.io/badge/Mail-critical?logo=gmail&logoColor=white)](mailto:wahhaj.musthafa@gmail.com)
