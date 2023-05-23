@@ -29,7 +29,9 @@
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)]()
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/shunphoenix55?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/shunphoenix55?tab=repositories&q=&type=&language=c++)
-
+[![Flask](https://img.shields.io/badge/-Flask-000?-&logo=flask)]()
+[![MongoDB](https://img.shields.io/badge/-MongoDB-000?-&logo=mongodb&logoColor=47A248)]()
+[![Discord.py](https://img.shields.io/badge/-Discord%2Epy-000?-&logo=discord&logoColor=5865F2)]()
 <br>
 
 ## My Webinars
