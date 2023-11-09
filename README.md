@@ -39,6 +39,7 @@
 -  [Introduction to Blender: Getting Started with Materials](https://www.youtube.com/live/dD2ikQ8OSYk?feature=share)
 -  [ Going Mobile: Creating Fruit Ninja in Unity Part 1](https://www.youtube.com/live/Ad7H5l7yu38?feature=share)
 -  [ Going Mobile: Fruit Ninja Part 2 - Game Mechanics ](https://www.youtube.com/live/pdBPu8VWieg?feature=share)
+-  [ Unity Unleashed: Master Game Development in One Epic Session! ](https://www.youtube.com/watch?v=mUi5FOUohAI)
 
 ## Github Stats
 <p align="center">
